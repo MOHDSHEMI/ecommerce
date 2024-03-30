@@ -1,7 +1,7 @@
 VOGUE VAULT E-COMMERCE SHOPPING PLATFORM
 Description: Developed an e-commerce shopping platform, Vogue Vault, encompassing an intuitive user interface, an admin
 panel for managing products, and essential features such as easy shopping, categorized products for men, women, and kids,
-showcasing new collections on the front page, and including login and cart functionality.
+showcasing new collections on the front page, and including login and cart functionality.\\
 Key Features:
 •Easy Shopping Experience: Designed a user-friendly interface for seamless browsing and purchasing of products.
 •Category Management: Implemented categories for menswear, womenswear, and kidswear to facilitate efficient product
